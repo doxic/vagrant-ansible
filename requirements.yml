@@ -1,0 +1,6 @@
+---
+# ansible-galaxy install -r requirements.yml
+# from galaxy
+# - src: yatesr.timezone
+# from GitHub
+# - src: https://github.com/bennojoy/nginx
